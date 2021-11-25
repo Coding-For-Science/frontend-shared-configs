@@ -1,0 +1,19 @@
+{
+  "name": "@coding-for-science/frontend-shared-configs",
+  "version": "0.1.0",
+  "description": "Configuration files shared between typical frontend projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Coding-For-Science/frontend-shared-configs.git"
+  },
+  "author": "Constantine Rafikov",
+  "license": "Mozilla Public License Version 2.0",
+  "bugs": {
+    "url": "https://github.com/Coding-For-Science/frontend-shared-configs/issues"
+  },
+  "homepage": "https://github.com/Coding-For-Science/frontend-shared-configs#readme"
+}
